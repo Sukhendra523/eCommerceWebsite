@@ -1,4 +1,4 @@
-![enter image description here](kubercart.png)
+![enter image description here](ss/kubercart.png)
 # Custom E-commerce website
 ## Description :-
 Custom E-commerce website is a online store of Customised products
@@ -8,13 +8,13 @@ personalised their products they wants to buy
 by adding their Name, Photo, stickers and text
 ### Website LINK :- [Kubercart](http://kubercart.com/)
 
-![enter image description here](kubercart1.png)
-![enter image description here](kubercart2.png)
-![enter image description here](kubercart3.png)
-![enter image description here](kubercart4.png)
-![enter image description here](kubercart5.png)
-![enter image description here](kubercart6.png)
-![enter image description here](kubercart7.png)
+![enter image description here](ss/kubercart1.png)
+![enter image description here](ss/kubercart2.png)
+![enter image description here](ss/kubercart3.png)
+![enter image description here](ss/kubercart4.png)
+![enter image description here](ss/kubercart5.png)
+![enter image description here](ss/kubercart6.png)
+![enter image description here](ss/kubercart7.png)
 
 
 
