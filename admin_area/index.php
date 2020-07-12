@@ -8,6 +8,12 @@
         echo "<script>window.open('login.php','_self')</script>";
         
     }else{
+        function get_safe_value($con,$str){
+                if($str!=''){
+                        $str=trim($str);
+                        return mysqli_real_escape_string($con,$str);
+                }
+        }
         
         $admin_session = $_SESSION['admin_email'];
         
@@ -272,9 +278,9 @@
                         
                         include("delete_coupon.php");
                         
-                }   if(isset($_GET['edit_coupon'])){
+                }   if(isset($_GET['manage_coupon_master'])){
                         
-                        include("edit_coupon.php");
+                        include("manage_coupon_master.php");
                         
                 }
         

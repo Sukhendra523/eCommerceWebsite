@@ -226,5 +226,29 @@ hr.dotted{
 
 
 
+.badge {
+    color: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 400
+}
 
+.badge-complete {
+    background: #00c292
+}
+
+.badge-pending {
+    background: #fb9678
+}
+
+.badge-delete {
+    background: #FF0000
+}
+
+.badge-edit {
+    background: #33A2FF
+}
+.add-coupon{
+    float: right;
+}
 

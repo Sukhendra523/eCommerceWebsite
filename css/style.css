@@ -1350,6 +1350,19 @@ section#checkout-page {
 	width:50%;
 	padding:0;
 }
+.coupon input{
+	width:50%
+}
+.coupon button{
+	background: black;
+    color: white;
+    outline: none;
+    border: 2px solid black;
+    width: 47%;
+    height: 30px;
+    float: right;
+}
+
 .summary-row img{
 	float:left;
 	width: 80px;

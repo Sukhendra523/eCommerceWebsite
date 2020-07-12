@@ -246,7 +246,7 @@
                 
                 <ul id="coupon" class="collapse"><!-- collapse begin -->
                     <li><!-- li begin -->
-                        <a href="index.php?insert_coupon"> Insert Coupon </a>
+                        <a href="index.php?manage_coupon_master"> Insert Coupon </a>
                     </li><!-- li finish -->
                     <li><!-- li begin -->
                         <a href="index.php?view_coupons"> View Coupons </a>
