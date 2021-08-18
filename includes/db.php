@@ -1,5 +1,9 @@
 <?php 
+// local DB Connection
+// $con = mysqli_connect("localhost","username","password","database");
 
-$con = mysqli_connect("localhost","root","","kubercart");
+
+// remote DB connection
+
 
 ?>

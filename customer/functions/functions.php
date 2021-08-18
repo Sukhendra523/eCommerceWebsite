@@ -1,6 +1,6 @@
 <?php 
 
-$db = mysqli_connect("localhost","root","","kubercart");
+$db = mysqli_connect("localhost","username","password","database");
 
 /// begin getRealIpUser functions ///
 

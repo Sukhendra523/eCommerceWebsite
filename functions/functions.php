@@ -1,6 +1,6 @@
 <?php 
 
-$db = mysqli_connect("localhost","root","","kubercart");
+$db = mysqli_connect("localhost","username","password","database");
 
 function get_safe_value($con,$str){
 	if($str!=''){
